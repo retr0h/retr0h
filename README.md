@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm John Dewey <img src="https://github.com/retr0h/retr0h/raw/main/img/final.gif" width="40px" height="40px"></h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
-Strategic technical leader with 20+ years in systems and software engineering.<br/>
+Strategic technical leader with 25+ years in systems and software engineering.<br/>
 Currently focused on cloud computing, system-level architecture, and GenAI.
 </p>
 
