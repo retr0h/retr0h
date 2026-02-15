@@ -64,6 +64,7 @@ Currently focused on cloud computing, system-level architecture, and GenAI.
 <a href="#" title="Open Source"><img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge" alt="Open Source"/></a>
 <a href="#" title="Agile"><img src="https://img.shields.io/badge/Agile-0175C2?style=for-the-badge" alt="Agile"/></a>
 <a href="#" title="Mentoring"><img src="https://img.shields.io/badge/Mentoring-FF6B6B?style=for-the-badge" alt="Mentoring"/></a>
+<a href="https://github.com/bhashem/baz-ab/commit/1a6200a286f8b60e772d220883ad1f4dad76713b" title="On GitHub Since 2008"><img src="https://img.shields.io/badge/On_GitHub_Since-2008-141321?style=for-the-badge&logo=github&logoColor=fe428e&labelColor=141321&color=a9fef7" alt="On GitHub Since 2008"/></a>
 </td>
 </tr>
 
